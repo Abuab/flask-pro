@@ -1,0 +1,8 @@
+CRITICAL - 2020-04-27 22:12:35,881 - Critical? oh Critical
+ERROR - 2020-04-27 22:12:35,881 - Error? oh Error
+WARNING - 2020-04-27 22:12:35,881 - Warning? oh Warning
+INFO - 2020-04-27 22:12:35,881 - Info? oh Info
+CRITICAL - 2020-04-27 23:34:37,579 - Critical? oh Critical
+ERROR - 2020-04-27 23:34:37,579 - Error? oh Error
+WARNING - 2020-04-27 23:34:37,579 - Warning? oh Warning
+INFO - 2020-04-27 23:34:37,579 - Info? oh Info
